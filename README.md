@@ -13,9 +13,10 @@ Flixtar is a static movie streaming site created using HTML, CSS, and JavaScript
 
 To view Flixtar, simply open the `index.html` file in a web browser.
 
-## Screenshots
+## Live Demo
 
-![Flixtar Screenshot](C:\Users\Sony\Pictures\Screenshots)
+[![Flixtar Website](https://github.com/glitter06/flixtar/assets/154607169/968422f1-ac43-4678-94cf-906b123ee4ff)](https://flixtarorg.netlify.app/)
+
 
 ## Contributing
 
